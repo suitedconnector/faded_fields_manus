@@ -67,7 +67,7 @@ export default function Home() {
             <img
               src="/faded-fields-logo.png"
               alt="Faded Fields"
-              className="h-12 w-auto"
+              className="h-16 w-auto"
             />
           </div>
           <div className="flex items-center gap-4">
