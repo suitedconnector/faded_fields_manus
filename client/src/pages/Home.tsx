@@ -63,13 +63,13 @@ export default function Home() {
       {/* Navigation */}
       <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-border shadow-sm">
         <div className="container flex items-center justify-between py-[13px]">
-          <div className="flex flex-col items-start">
+          <div className="flex flex-col items-center">
             <img
               src="/FadedFieldslogo.png"
               alt="Faded Fields"
               className="h-[70px] w-auto"
             />
-            <span className="bg-foreground text-white text-xs font-sans tracking-wide px-2 py-0.5 mt-1">
+            <span className="bg-primary text-white text-xs font-sans tracking-wide px-2 py-0.5 mt-1">
               Quality Vintage Clothing + Accessories
             </span>
           </div>
