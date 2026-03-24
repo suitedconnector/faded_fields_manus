@@ -113,7 +113,7 @@ export default function Home() {
                   alt="Faded Fields"
                   className="h-[86px] w-auto -ml-[15px]"
                 />
-                <p className="text-lg text-primary-foreground/90 mt-2">
+                <p className="text-lg text-foreground mt-2">
                   Quality Vintage Clothing + Accessories
                 </p>
               </div>
