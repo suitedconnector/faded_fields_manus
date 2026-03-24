@@ -63,20 +63,12 @@ export default function Home() {
       {/* Navigation */}
       <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-border shadow-sm">
         <div className="container flex items-center justify-between py-4">
-          <div className="flex items-center gap-2">
-            <div className="w-10 h-10 bg-primary rounded-sm flex items-center justify-center">
-              <span className="text-primary-foreground font-display font-bold text-lg">
-                FF
-              </span>
-            </div>
-            <div className="hidden sm:block">
-              <h1 className="font-display text-xl font-bold text-primary">
-                Faded Fields
-              </h1>
-              <p className="text-xs text-muted-foreground">
-                Quality Vintage Clothing + Accessories
-              </p>
-            </div>
+          <div className="flex items-center">
+            <img
+              src="/faded-fields-logo.png"
+              alt="Faded Fields"
+              className="h-12 w-auto"
+            />
           </div>
           <div className="flex items-center gap-4">
             <Button variant="ghost" size="sm" className="hidden md:inline-flex">
