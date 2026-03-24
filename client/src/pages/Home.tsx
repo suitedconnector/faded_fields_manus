@@ -108,9 +108,11 @@ export default function Home() {
                 <p className="text-primary-foreground/80 text-sm font-display tracking-wide mb-2">
                   DISCOVER TIMELESS TREASURES
                 </p>
-                <h1 className="text-4xl md:text-5xl font-display font-bold text-primary-foreground leading-tight">
-                  Faded Fields
-                </h1>
+                <img
+                  src="/FadedFieldslogo_wht.png"
+                  alt="Faded Fields"
+                  className="h-20 w-auto"
+                />
                 <p className="text-lg text-primary-foreground/90 mt-2">
                   Quality Vintage Clothing + Accessories
                 </p>
