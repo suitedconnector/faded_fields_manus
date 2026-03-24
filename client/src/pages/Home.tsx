@@ -62,12 +62,12 @@ export default function Home() {
     <div className="min-h-screen bg-background text-foreground">
       {/* Navigation */}
       <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-border shadow-sm">
-        <div className="container flex items-center justify-between py-4">
+        <div className="container flex items-center justify-between py-[13px]">
           <div className="flex items-center">
             <img
               src="/faded-fields-logo.png"
               alt="Faded Fields"
-              className="h-16 w-auto"
+              className="h-[70px] w-auto"
             />
           </div>
           <div className="flex items-center gap-4">
