@@ -111,7 +111,7 @@ export default function Home() {
                 <img
                   src="/FadedFieldslogo_wht.png"
                   alt="Faded Fields"
-                  className="h-20 w-auto"
+                  className="h-[92px] w-auto -ml-[15px]"
                 />
                 <p className="text-lg text-primary-foreground/90 mt-2">
                   Quality Vintage Clothing + Accessories
