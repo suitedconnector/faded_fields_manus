@@ -65,7 +65,7 @@ export default function Home() {
         <div className="container flex items-center justify-between py-[13px]">
           <div className="flex items-center">
             <img
-              src="/faded-fields-logo.png"
+              src="/FadedFieldslogo.png"
               alt="Faded Fields"
               className="h-[70px] w-auto"
             />
