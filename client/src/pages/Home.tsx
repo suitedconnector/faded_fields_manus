@@ -310,7 +310,7 @@ export default function Home() {
         <div className="container">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h4 className="font-display font-bold mb-4">Faded Fields</h4>
+              <img src="/FadedFieldslogo_wht.png" alt="Faded Fields" className="h-16 w-auto mb-4" />
               <p className="text-primary-foreground/70 text-sm">
                 Quality Vintage Clothing & Accessories
               </p>
