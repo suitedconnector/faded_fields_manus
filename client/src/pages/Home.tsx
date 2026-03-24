@@ -109,7 +109,7 @@ export default function Home() {
                   DISCOVER TIMELESS TREASURES
                 </p>
                 <h2 className="text-4xl md:text-5xl font-display font-bold text-primary-foreground leading-tight">
-                  Quality Vintage Clothing + Accessories
+                  Quality Vintage Clothing & Accessories
                 </h2>
               </div>
 
@@ -312,7 +312,7 @@ export default function Home() {
             <div>
               <h4 className="font-display font-bold mb-4">Faded Fields</h4>
               <p className="text-primary-foreground/70 text-sm">
-                Quality Vintage Clothing + Accessories
+                Quality Vintage Clothing & Accessories
               </p>
             </div>
             <div>
